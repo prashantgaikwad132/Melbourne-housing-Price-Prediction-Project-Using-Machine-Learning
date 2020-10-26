@@ -1,0 +1,2 @@
+# Melbourne-housing-Price-Project-Using-Machine-Learning
+In this project, I built serveral regression models to predict the price of some house given some of the house features. I eveluated and compared each model to determine the one with highest performance. I have started process with getting the data, then cleaning and preprocessing the data, followed by exploring the data and building models, then evaluating the results and communicating them with visualizations.
